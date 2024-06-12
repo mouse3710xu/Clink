@@ -1,0 +1,4 @@
+/home/xuchang/Desktop/clion-2022.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/home/xuchang/Desktop/clion-2022.2.4/bin/ninja/linux/ninja -G Ninja -S /home/xuchang/Desktop/workstation/Projects/clink -B /home/xuchang/Desktop/workstation/Projects/clink/cmake-build-release
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/xuchang/Desktop/workstation/Projects/clink/cmake-build-release
